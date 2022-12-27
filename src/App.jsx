@@ -1,5 +1,15 @@
+import React from "react"
+import Card from './components/Card'
+const App =  ()=>{
+  return(
+    <>
+    <Card/>
+    </>
+  )
+}
+export default App
 
-import './App.css';
+/*import './App.css';
 import Navbar from './components/Navbar'
 import Card from './components/Card'
 import data from './data'
@@ -22,4 +32,5 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
+
